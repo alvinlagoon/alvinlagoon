@@ -39,7 +39,7 @@ def main ():
                 break  
     else:
         print("Next time then!")
-        
+        break
         
 #define function one_more to ask user if they want to do some more calculation              
 def one_more():
